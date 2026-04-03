@@ -1,0 +1,88 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice Smith"
+        },
+        {
+            "id": 2,
+            "name": "Bob Jones"
+        },
+        {
+            "id": 3,
+            "name": "Ron Ademi"
+        },
+        {
+            "id": 4,
+            "name": "Grade User"
+        },
+        {
+            "id": 5,
+            "name": "Test Student"
+        },
+        {
+            "id": 6,
+            "name": "New Student"
+        },
+        {
+            "id": 7,
+            "name": "Grade User"
+        },
+        {
+            "id": 8,
+            "name": "Test Student"
+        },
+        {
+            "id": 9,
+            "name": "New Student"
+        }
+    ],
+    "courses": [
+        {
+            "code": "PY101",
+            "title": "Python Deep Dive"
+        },
+        {
+            "code": "DS202",
+            "title": "Data Structures"
+        },
+        {
+            "code": "PY101",
+            "title": "Python Basics"
+        },
+        {
+            "code": "PY101",
+            "title": "Python Basics"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "PY101",
+            "grades": [
+                95
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "DS202",
+            "grades": [
+                88
+            ]
+        },
+        {
+            "student_id": 4,
+            "course_code": "PY101",
+            "grades": [
+                95
+            ]
+        },
+        {
+            "student_id": 7,
+            "course_code": "PY101",
+            "grades": [
+                95
+            ]
+        }
+    ]
+}
